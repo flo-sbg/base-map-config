@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>BaseMap - Standard</name>
+<minZoom>0</minZoom>
+<maxZoom>19</maxZoom>
+<url>https://{$serverpart}.wien.gv.at/basemap/geolandbasemap/normal/google3857/{$z}/{$y}/{$x}.png</url>
+<serverParts>mapsneu</serverParts>
+</customMapSource>
